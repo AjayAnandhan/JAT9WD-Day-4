@@ -1,0 +1,21 @@
+Q1. 
+    1. Smoke vs Sanity Testing:
+        Smoke testing:
+            Smoke Testing is a software testing technique performed post software build to verify that the critical functionalities of software are working fine. It is executed before any detailed functional or regression tests are executed. The main purpose of smoke testing is to reject a software application with defects so that QA team does not waste time testing broken software application.
+
+        Sanity testing:
+            Sanity testing is a kind of Software Testing performed after receiving a software build, with minor changes in code, or functionality, to ascertain that the bugs have been fixed and no further issues are introduced due to these changes. The goal is to determine that the proposed functionality works roughly as expected. If sanity test fails, the build is rejected to save the time and costs involved in a more rigorous testing.
+
+        Differences:
+            => Smoke Testing has a goal to verify “stability” whereas Sanity Testing has a goal to verify “rationality”.
+            => Smoke Testing is done by both developers or testers whereas Sanity Testing is done by testers.
+            => Smoke Testing verifies the critical functionalities of the system whereas Sanity Testing verifies the new functionality like bug fixes.
+            => Smoke testing is a subset of acceptance testing whereas Sanity testing is a subset of Regression Testing.
+            => Smoke testing is documented or scripted whereas Sanity testing isn’t.
+            => Smoke testing verifies the entire system from end to end whereas Sanity Testing verifies only a particular component.
+    2. Verification vs Validation:
+        Verification:
+            Verification is the process of checking that a software achieves its goal without any bugs. It is the process to ensure whether the product that is developed is right or not. It verifies whether the developed product fulfills the requirements that we have. Verification is static testing. 
+
+        Validation:
+            Validation is the process of checking whether the software product is up to the mark or in other words product has high level requirements. It is the process of checking the validation of product i.e. it checks what we are developing is the right product. it is validation of actual and expected product. Validation is the dynamic testing. 

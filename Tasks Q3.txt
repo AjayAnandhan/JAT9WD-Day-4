@@ -1,0 +1,25 @@
+Q3. Epic and User Stories:
+
+    User stories:
+        => User stories are lightweight requirements phrased in a way that focuses on the end-user and the desired outcome. End-users can be anyone who comes into contact with your product, e.g. external end-users, internal end-users, partners, etc. 
+
+        => User stories typically live in the product backlog and should be articulated in a simple language that outlines for who and how they will generate value. A common way of phrasing them is:
+
+            <As a [role], I want [objective], So I [benefit]>
+
+        => A great way of thinking about user stories is the three C’s framework which the fantastic Ron Jeffries came up with. The three C's framework does an excellent job at describing the components of a user story. According to Ron, the three C’s of a user story are:
+
+            * (Card). The card refers to the place where the story has been written down. Traditionally, this was written on index cards. Nowadays, the card is typically a ticket in an issue tracker (in the backlog), a bullet point in a specification document (before it hits the backlog), or a card in a user story map.
+
+            * (Conversation). The conversation refers to the actual conversations that happen between customers, product managers, developers, etc.
+
+            * (Confirmation). The confirmation refers to the acceptance test and is really a specific part of the conversation. It’s the agreement on how we will test whether or not the user story has been fulfilled. 
+
+    Epic:
+        => Developing one epic is a bigger investment than developing one user story. Because the investment is greater, teams generally go through a more rigorous process of defining, validating, and rolling them out compared to individual user stories.
+
+        => While user stories are typically added directly to the product backlog, epics usually takes the route via a product roadmap or a discovery board, before being added to the backlog. While they live there the team work on breaking the epic down into smaller pieces, i.e. user stories (and tasks, and sub-tasks).
+
+        => The fact that epics are larger in scope and complexity means that they often take the form of a small project. Relax. I’m not saying that epics are projects or that you should resort to a waterfall approach when you are working with them. What I’m saying is that there’s usually a level of project management involved, one that is typically not present for a single user story.
+
+        => Thus, for most epics there needs to be more pre-thinking and preparation, meetings need to be scheduled, tasks delegated, and eventually, the results need to be analyzed so that we know what worked and what didn’t.

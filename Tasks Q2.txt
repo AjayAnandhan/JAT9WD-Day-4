@@ -1,0 +1,9 @@
+Q2. Agile Methodology:
+    The Agile methodology is a project management approach that involves breaking the project into phases and emphasizes continuous collaboration and improvement. Teams follow a cycle of planning, executing, and evaluating.
+
+    Agile Values:
+    Agile as we know it today traces its history to 2001. Reacting to waterfall approaches to project management, which organizes a software project as a series of linear sequences, a group of software developers penned The Manifesto for Agile Software Development. In this document the programmers proposed a new approach to software development and described 4 key characteristics that they believed should be valued over other concerns. As they put it, agile software development teams should value:
+        => Individual and team interactions over processes and tools
+        => Working software over comprehensive documentation
+        => Customer collaboration over contract negotiation
+        => Responding to change over following a plan
